@@ -1,4 +1,9 @@
 *pyc
+
+# Ignore cloud9 folder
+.c9/
+
+# Don't commit database
 letusorderit/db.sqlite3
 # Created by https://www.gitignore.io
 
